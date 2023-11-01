@@ -1,0 +1,72 @@
+Sandbox_FR = {
+    Sandbox_PompsItems = "Options de Pomp's Items",
+
+    Sandbox_PompsItems_WantG4Ponies = "Activer les poneys G4",
+    Sandbox_PompsItems_WantG4Ponies_tooltip = "Activer les peluches Mon Petit Poney Génération 4, L'amitié est magique ?",
+
+    Sandbox_PompsItems_AlbionSpawnlist = "Liste d'apparition d'Albion",
+    Sandbox_PompsItems_AlbionSpawnlist_tooltip = "Activer la liste d'apparition personnelle d'Albion ? <br> <RED>Remplace tous les autres paramètres. Consulter la page du mod pour plus de détails.",
+
+    Sandbox_PompsItems_WantG5Ponies = "Activer les poneys G5",
+    Sandbox_PompsItems_WantG5Ponies_tooltip = "Activer les peluches Mon Petit Poney Génération 5 ?",
+
+    Sandbox_PompsItems_WantClassicPonies = "Activer les poneys classiques",
+    Sandbox_PompsItems_WantClassicPonies_tooltip = "Activer les poneys classiques ? <br> <GREEN>Cette option est fidèle à la période de 1993.",
+
+    Sandbox_PompsItems_WantOCs = "Activer les poneys OCs",
+    Sandbox_PompsItems_WantOCs_tooltip = "Activer Mon Petit Poney OCs? Ce sont des personnages non officiels.",
+
+    Sandbox_PompsItems_ReadablePonies = "Poneys 'lisibles'",
+    Sandbox_PompsItems_ReadablePonies_tooltip = "Les peluches peuvent être 'lues' pour réduire le stress et le malheur. <br> <RED>La modification de ce paramètre supprimera toutes les peluches existantes dans votre sauvegarde !",
+
+    Sandbox_PompsItems_PonyJars = "Activer les événements Pot",
+    Sandbox_PompsItems_PonyJars_tooltip = "Active les fameux méta-événements 'Pot'. <br> <GREEN>L'activation de poneys spécifiques ne change pas les personnages de ce <br>méta-événement car il utilise sa propre sélection de personnages pour l'apparition.",
+
+	Sandbox_PompsItems_StallionMilk = "Autoriser 'Stallion Milk'",
+	Sandbox_PompsItems_StallionMilk_tooltip = "Autorise 'Cosmos Co. Canned Stallion Milk' à apparaître en jeu.",
+	
+	Sandbox_PompsItems_EasterStuff = "Autoriser 'Easter Candy'",
+	Sandbox_PompsItems_EasterStuff_tooltip = "Autorise Easter-themed candies à apparaître en jeu.",
+	
+	Sandbox_PompsItems_Littering = "Désactiver 'Littering'",
+	Sandbox_PompsItems_Littering_tooltip = "Désactive les déchets.",
+	
+	Sandbox_PompsItems_PonySpawnRate = "Multiplicateur d'apparition de poneys",
+    Sandbox_PompsItems_PonySpawnRate_tooltip = "Multiplicateur pour les chances d'apparition des peluches poneys.<br> <br> Soyez prudent avec des valeurs plus élevées ! <br> <br> Ne s'applique pas à l'événement méta pot. <br>",
+
+	Sandbox_PompsItems_FNAFSpawnRate = "Multiplicateur d'apparition de Five Nights at Freddy's",
+    Sandbox_PompsItems_FNAFSpawnRate_tooltip = "Multiplicateur pour les chances d'apparition des boîtes mystère FNAF.<br> <br> Soyez prudent avec des valeurs plus élevées ! <br>",
+
+	Sandbox_PompsItems_FNAFZombieSpawnRate = "Multiplicateur d'apparition de zombies de Five Nights at Freddy's",
+    Sandbox_PompsItems_FNAFZombieSpawnRate_tooltip = "Multiplicateur pour les chances d'apparition des boîtes mystères FNAF apparaissant sur les cadavres de zombies.<br> <br> Soyez prudent avec des valeurs plus élevées ! <br>",
+
+	Sandbox_PompsItems_PonyZombieSpawnRate = "Multiplicateur d'apparition de poneys zombies",
+    Sandbox_PompsItems_PonyZombieSpawnRate_tooltip = "Multiplicateur pour les chances d'apparition des peluches de poney sur les cadavres de zombies.<br> <br> Soyez prudent avec des valeurs plus élevées ! <br>",
+
+	Sandbox_PompsItems_CandySpawnRate = "Multiplicateur d'apparition des 'Bonbons'",
+	Sandbox_PompsItems_CandySpawnRate_tooltip = "Multiplicateur de chance d'apparition de bonbons.<br>",
+
+	Sandbox_PompsItems_RefrigeratedGoodsSpawnRate = "Multiplicateur d'apparition des biens réfrigérés",
+	Sandbox_PompsItems_RefrigeratedGoodsSpawnRate_tooltip = "Multiplicateur de chance d'apparition des biens trouvable dans des réfrigérateurs.<br>",
+
+	Sandbox_PompsItems_FrozenGoodsSpawnRate = "Multiplicateur d'apparition des biens surgelés",
+	Sandbox_PompsItems_FrozenGoodsSpawnRate_tooltip = "Multiplicateur de chance d'apparition des biens trouvable dans des congélateurs.<br>",
+
+	Sandbox_PompsItems_SnacksSpawnRate = "Multiplicateur d'apparition des 'Snack'",
+	Sandbox_PompsItems_SnacksSpawnRate_tooltip = "Multiplicateur de chance d'apparition des snack.<br>",
+
+	Sandbox_PompsItems_CannedGoodsSpawnRate = "Multiplicateur d'apparition des 'Conserves'",
+	Sandbox_PompsItems_CannedGoodsSpawnRate_tooltip = "Multiplicateur de chance d'apparition des conserves.<br>",
+
+	Sandbox_PompsItems_DrinksSpawnRate = "Multiplicateur d'apparition des 'Boissons'",
+	Sandbox_PompsItems_DrinksSpawnRate_tooltip = "Multiplicateur de chance d'apparition des boissons.<br>",
+
+	Sandbox_PompsItems_EnergyDrinkSpawnRate = "Multiplicateur d'apparition des 'Boissons énergétiques'",
+	Sandbox_PompsItems_EnergyDrinkSpawnRate_tooltip = "Multiplicateur de chance d'apparition des boissons énergétiques.<br>",
+
+	Sandbox_PompsItems_LiquorSpawnRate = "Multiplicateur d'apparition des 'Alcools'",
+	Sandbox_PompsItems_LiquorSpawnRate_tooltip = "Multiplicateur de chance d'apparition des alcools.<br>",
+
+	Sandbox_PompsItems_MiscSpawnRate = "Multiplicateur d'apparition des articles 'Divers'",
+	Sandbox_PompsItems_MiscSpawnRate_tooltip = "Multiplicateur de chance d'apparition des nourritures diverses.<br>"
+}
