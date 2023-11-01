@@ -1,0 +1,7 @@
+IGUI_FR = {
+    IGUI_ItemCat_PIPlushie = "Peluche",
+    IGUI_ItemCat_PIPlushieAccessory = "Accessoire de peluche",
+    IGUI_ItemCat_PIFigurine = "Figurine",
+    IGUI_ItemCat_PIMysteryBox = "Boite mystère",
+    IGUI_ItemCat_PIScriptC = "Composant de script",
+}
