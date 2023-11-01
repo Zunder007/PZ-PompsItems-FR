@@ -1,0 +1,14 @@
+EvolvedRecipeName_FR = {
+	EvolvedRecipeName_PompsItems.CheetosPacket = "Assaisonnement pour macaroni au fromage",
+	EvolvedRecipeName_PompsItems.PIABCSoupOpen = "Conserve de soupe à l'alphabet (ouverte)",
+	EvolvedRecipeName_PompsItems.PICannedMacCheeseOpen = "Conserve de macaronis & fromage (ouverte)",
+	EvolvedRecipeName_PompsItems.PICannedRavioliOpen = "Conserve de raviolis (ouverte)",
+	EvolvedRecipeName_PompsItems.PIClamChowderOpen = "Conserve de chaudrée de palourdes (ouverte)",
+	EvolvedRecipeName_PompsItems.PIMacBeefOpen = "Conserve de macaroni au boeuf (ouverte)",
+	EvolvedRecipeName_PompsItems.PISchoolMilkChocolate = "Lait parfum chocolat 'Petit écolier'",
+	EvolvedRecipeName_PompsItems.PISchoolMilkRegular = "Lait nature 'Petit écolier'",
+	EvolvedRecipeName_PompsItems.PISchoolMilkStrawberry = "Lait parfum fraise 'Petit écolier'",
+	EvolvedRecipeName_PompsItems.PISpaghettiOsOpen = "Conserve de Spaghetti (ouverte)",
+	EvolvedRecipeName_PompsItems.PISpamOpen = "Conserve de jambon (ouverte)",
+	EvolvedRecipeName_PompsItems.StallionMilkOpen = "Lait d'étalon ouvert",
+}
