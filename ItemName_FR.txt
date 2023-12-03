@@ -12,7 +12,7 @@ ItemName_FR = {
     ItemName_PompsItems.Brawndo = "Brondo",
     ItemName_PompsItems.BrawndoCan = "Canette de Brondo",
     ItemName_PompsItems.FrozenWaffle = "Gaufre surgelée",
-	ItemName_PompsItems.FrozenWafflez = "Gaufre surgelée",
+    ItemName_PompsItems.FrozenWafflez = "Gaufre surgelée",
     ItemName_PompsItems.WafflezBox = "Boîte de gaufres",
     ItemName_PompsItems.WafflezBoxDestroyed = "Boîte de gaufres vide",
     ItemName_PompsItems.MaplesSyrup = "Sirop d'érable",
@@ -113,8 +113,8 @@ ItemName_FR = {
     ItemName_PompsItems.JellyBeansEmpty = "Emballage vide de dragées",
     ItemName_PompsItems.CircusPeanuts = "Cacahuètes 'Circus'",
     ItemName_PompsItems.CircusPeanutsEmpty = "Emballage vide de cacahuètes 'Circus'",
-    ItemName_PompsItems.TastyTarts = "Tartes ??savoureuses",
-    ItemName_PompsItems.TastyTartsEmpty = "Emballage vide de tartes ??savoureuses",
+    ItemName_PompsItems.TastyTarts = "Tartes savoureuses",
+    ItemName_PompsItems.TastyTartsEmpty = "Emballage vide de tartes savoureuses",
     ItemName_PompsItems.VodkaAus = "Vodka Sviataya",
     ItemName_PompsItems.VodkaAusEmpty = "Bouteille de Vodka Sviataya vide",
     ItemName_PompsItems.VodkaAusWater = "Bouteille de Vodka Sviataya remplie d'eau",
@@ -412,7 +412,6 @@ ItemName_FR = {
     ItemName_PompsItems.BowlCheetosClassic = "Bol de macaroni & fromage",
     ItemName_PompsItems.PIIslandChips = "Chips pommes de terre",
     ItemName_PompsItems.PIIslandChipsEmpty = "Paquet vide de chips pommes de terre",
-
 
     ItemName_PompsItems.PIStonewallChew = "Os à moelle",
     ItemName_PompsItems.PIStonewallChewEmpty = "Sachet vide d'os à moelle",
