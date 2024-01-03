@@ -15,6 +15,11 @@ Recipes_FR = {
 	Recipe_Open_Bag_of_Strawberry_Mini_Donuts = "Ouvrir un sachet",
 	Recipe_Open_Berry_Pie_Filling = "Ouvrir un sachet",
 	Recipe_Open_Blackberry_Pie_Filling = "Ouvrir un sachet",
+
+	Recipe_Open_Apple_Pie_Filling = "Ouvrir un sachet",
+	Recipe_Open_Blueberry_Pie_Filling = "Ouvrir un sachet",
+	Recipe_Open_Cherry_Pie_Filling = "Ouvrir un sachet",
+
 	Recipe_Open_Bologna_&_American_Snackable = "Ouvrir un sachet",
 	Recipe_Open_Box_of_Dinosaur_Nuggets = "Ouvrir une boîte",
 	Recipe_Open_Box_of_Fig_Bars = "Ouvrir une boîte",
@@ -32,6 +37,9 @@ Recipes_FR = {
 	Recipe_Open_Canned_Macaroni_Beef = "Ouvrir une conserve",
 	Recipe_Open_Canned_Pasta_O's = "Ouvrir une conserve",
 	Recipe_Open_Canned_Stallion_Milk = "Ouvrir une conserve",
+
+	Recipe_Open_Canned_Ravioli = "Ouvrir une conserve",
+
 	Recipe_Open_Cheese_Pizza_Snackable = "Ouvrir un sachet",
 	Recipe_Open_Chicken_Pizza_Snackable = "Ouvrir un sachet",
 	Recipe_Open_Frozen_Mozzarrela_Sticks = "Ouvrir un sachet",
