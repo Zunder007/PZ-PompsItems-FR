@@ -1,6 +1,8 @@
 Sandbox_FR = {
     Sandbox_PompsItems = "Options de Pomp's Items",
 
+    Sandbox_PompsItemsMLP = "Pomp's Items - Personnalisation de poney",
+
     Sandbox_PompsItems_WantG4Ponies = "Activer les poneys G4",
     Sandbox_PompsItems_WantG4Ponies_tooltip = "Activer les peluches Mon Petit Poney Génération 4, L'amitié est magique ?",
 
@@ -69,4 +71,13 @@ Sandbox_FR = {
 
 	Sandbox_PompsItems_MiscSpawnRate = "Multiplicateur d'apparition des articles 'Divers'",
 	Sandbox_PompsItems_MiscSpawnRate_tooltip = "Multiplicateur de chance d'apparition des nourritures diverses.<br>"
+
+	Sandbox_PompsItems_LiteratureSpawnRate = "Multiplicateur d'apparition des articles 'Littérature'",
+    Sandbox_PompsItems_LiteratureSpawnRate_tooltip = "Multiplicateur de chance d'apparition de la littérature, comme les magazines.<br>",
+
+	Sandbox_PompsItems_ZombieLoot = "Activer le butin de nourriture zombie",
+    Sandbox_PompsItems_ZombieLoot_tooltip = "Permet d'ouvrir un aliment mystérieux pour recevoir un aliment aléatoire de bas niveau provenant de zombies.",
+
+	Sandbox_PompsItems_ZombieLootSpawnRate = "Multiplicateur d'apparition du butin de nourriture zombie",
+    Sandbox_PompsItems_ZombieLootSpawnRate_tooltip = "Multiplicateur de chance d'apparition de nourriture et de boisson sur les zombies.<br>",
 }
