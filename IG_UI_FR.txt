@@ -4,4 +4,7 @@ IGUI_FR = {
     IGUI_ItemCat_PIFigurine = "Figurine",
     IGUI_ItemCat_PIMysteryBox = "Boite mystère",
     IGUI_ItemCat_PIScriptC = "Composant de script",
+
+	IGUI_CraftCategory_Plushie = "Peluche",
+	IGUI_CraftCategory_Outfit = "Tenue pour Peluche",
 }
